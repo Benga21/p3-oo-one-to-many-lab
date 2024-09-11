@@ -1,5 +1,5 @@
 import pytest
-from owner_pet import Pet, Owner
+from lib. owner_pet import Pet, Owner
 
 def test_owner_init():
     """Test Owner class initialization"""
